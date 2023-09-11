@@ -1,5 +1,0 @@
-R&D
-  -Email protool(POP3,SMTP)
-  -WHat name given by google to their user...????
-  - SDLC life cycle
-  -

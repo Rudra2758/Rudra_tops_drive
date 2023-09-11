@@ -1,0 +1,11 @@
+Looping
+
+
+---Entry controlled loop
+   1. for loop
+         for(int,condition,updation)
+               { loops body  }
+   2.while loop
+
+---exit controlled loop
+   1.do while

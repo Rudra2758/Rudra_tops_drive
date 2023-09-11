@@ -1,0 +1,20 @@
+while loop
+
+syntax
+      while(condition){
+      loop body;updation
+      }
+
+
+Do Whilw
+
+int;
+do{loop body;
+updation;
+}while(condition)
+
+
+
+array
+-type
+  
