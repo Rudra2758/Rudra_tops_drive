@@ -1,0 +1,12 @@
+key words
+constant
+identifire
+string litteral
+symball
+
+Format specifires
+
+ %d - integer type
+ %f - real number
+ %c - character number 
+

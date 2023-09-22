@@ -1,0 +1,20 @@
+Instructor & Operaters
+
+
+-----Instruction-----
+  1. type declaration  instruction
+  2. Arithmatic instruction
+  3. control instruction
+
+
+
+3....CONTROL INSTRUCTION....
+
+****TYPES****
+ a.Sequence Control
+ b.Decision Control
+ c.Loop Control
+ d.Case Control
+
+
+

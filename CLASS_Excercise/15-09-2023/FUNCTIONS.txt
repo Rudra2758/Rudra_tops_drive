@@ -1,0 +1,22 @@
+FUNCTIONS
+
+------Functons are basic building blocks we use functions for resablity and to keep ourcode clean and clear with the help of function we can reuse the same code in diffetrent types
+
+SYNTAX
+
+data_type fun_name()
+{
+Function body;
+}
+main()
+{
+fun_name();
+}
+
+
+*****FUNCTION TYPE*****
+1. Function WITHOUT argument WITHOUT return type
+2. Function WITH argument WITHOUT return type
+3. Function WITHOUT argument WITH return type
+4. Function WITH argument WITH return type
+
